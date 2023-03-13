@@ -1,0 +1,33 @@
+header{
+    
+     font-family:'Times New Roman', Times, serif;
+     font-size: large;
+     text-align: left;
+     color:rgb(255, 0, 140);
+     background-color: chartreuse;
+     padding: 1%;
+}
+sectiontitulo{
+    background-color: white;
+    color:black;
+    font-family:fantasy;
+}
+section{
+    background-color: white;
+    color:black;
+    font-family:cursive ;
+}
+section2{
+    background-color: white;
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+footer{
+    font-size: small;
+    text-align: center;
+    color:rgb(255, 0, 140);
+    font-family:cursive;
+
+    background-color: chartreuse;
+    padding: 1%;
+}

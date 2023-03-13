@@ -1,0 +1,88 @@
+header{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: left;
+    color:rgb(255, 0, 140);
+    background-color: chartreuse;
+    padding: 1%;
+    margin: 20px;
+
+}
+h1{
+    margin-left: 20px;
+    background-color: black;
+    color:red;
+}
+sectiontitulo{
+   background-color: rgb(19, 192, 223);
+   color:black;
+   font-family:fantasy;
+   margin: 5px;
+}
+section{
+   background-color: white;
+   color:black;
+   font-family:cursive ;
+   margin: 20px;
+}
+section2{
+   background-color: white;
+   color:black;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+   margin:auto;
+}
+footer{
+   font-size: small;
+   text-align: center;
+   color:rgb(255, 0, 140);
+   font-family:cursive;
+   margin: 20px;
+   background-color: chartreuse;
+   padding: 1%;
+}
+
+#p1{
+    border: 10px outset #4c1ca4;
+    padding: 1%;
+    background-color: antiquewhite;
+    margin-left: 20px;
+}
+#p2{
+    border: 14px dashed #ec2ebd;
+    padding: 1%;
+    background-color:antiquewhite;
+    margin: 20px;
+}
+#p3{
+    border: 7px dotted #1C6EA4;
+    padding: 1%;
+    background-color:khaki;
+    margin: 20px;
+
+}
+#p4{
+    border: 10px double #01111b;;
+    padding: 1%;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+div{
+    background-color:beige;
+    margin: 20px;
+}
+  #p1:hover {background-color:#FAFAFA;}
+ #p2:hover {background-color:#FAFAFA;}
+ #p3:hover {background-color:#FAFAFA;}
+ #p4:hover {background-color:#FAFAFA;}
+ p:hover {background-color:#FAFAFA;}
+a:link{color:blueviolet;background-color:antiquewhite;}
+a:visited{color:#ec2ebd}
+a:hover{color:aqua}
+
+.enlace:link{color:black;}
+    
+.enlace:visited{color:black}
+.enlace:hover{color:red} 
+
+
